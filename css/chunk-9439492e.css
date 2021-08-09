@@ -1,0 +1,1 @@
+.basePaperLayoutBox{display:flex;flex-direction:column;height:100%;width:100%}.basePaperLayoutBox .basePaperLayoutItem.firstRowItem{height:5%;display:flex;justify-content:flex-end;align-items:center}.basePaperLayoutBox .basePaperLayoutItem.secondRowItem{height:95%}.basePaperContentBox{display:flex;width:100%;height:100%}.basePaperContentBox .basePaperContentItem{width:50%}
